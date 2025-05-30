@@ -68,9 +68,9 @@ Accessibility improvements (TalkBack labels, larger fonts)
 
 Dark/light theme toggle
 
-📝 License
-This project is released under the MIT License.
-Feel free to fork, modify, and share—just keep the copyright notice.
+License
+© 2025 Mohamad Syaj. All Rights Reserved.
+This code is provided for personal or educational use only. You may not sell, distribute, publish, or incorporate any portion of it into commercial products without the author's explicit written permission.
 
 Author
 Name – Mohamad Syaj
